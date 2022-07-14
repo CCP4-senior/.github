@@ -18,9 +18,10 @@ Expo, a mobile application for displaying our content to users.
 
 # How it works
 
-Runtomo is a mobile application centered around the Tokyo area, allowing users to create accounts, make their own running sessions, find other users and join up!  Newcomers and locals can encourage fitness, friendship, and language exchange.  
-
+**Pre-recorded demonstration**
 https://www.youtube.com/watch?v=ijyDfnP7na8
+
+Runtomo is a mobile application centered around the Tokyo area, allowing users to create accounts, make their own running sessions, find other users and join up!  Newcomers and locals can encourage fitness, friendship, and language exchange.  
 
 **Sign up feature**
 New users can create accounts and login to use the app.  Without an account, users won’t be able to see, interact with or create sessions.
