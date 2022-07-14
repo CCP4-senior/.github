@@ -44,4 +44,4 @@ The map feature will present users with a pin for the meeting location, as well 
 **Backend:**
 https://github.com/CCP4-senior/runtomo-backend/blob/main/README.md
 **Frontend**
-
+https://github.com/CCP4-senior/runtomo-frontend/blob/main/README.md
