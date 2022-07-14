@@ -1,37 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-# Introduction
-Hello, and welcome to the Ruby Recipe Book! This is a polyglottal project built while studying with Code Chrysalis.
-I was tasked with learning a new language and developing an application within two weeks; here is the final product.
-
-The Ruby recipe book is designed to create users and populate a database with recipe ideas that can be explored and developed by the community to be shared.  
-- Implements CRUD functionality for recipes
-- Creation of users and login/logout features
-- basic frontend to display data
-
-# Ruby version
-3.1.2p20
-# Rails version
-7.0.3
-
-# Configuration
-1. Ensure your dependencies are installed. Run: ruby -v
-2. Run: rails -v.  If either of these fail, ensure you acquire them for your OS. (npm/yarn install ruby) (gem install rails)
-3. sqlite3 is the preferred database with ruby on rails, check its version with: sqlite3 -v.  If not, check the instructions on sqlite3 installation.
-4. Check that the gems/packages are installed by running: bundle / rails bundle
-
-# Database creation
-1. Run: rails db:migrate (Create user and recipes models)
-2. Run: rails db:seed (Seed database with mock data)
-
-# Gem modifications needed
-- Resolved issues with destroy action ( gem install turbo, rails importmap:install, rails turbo:install, rails turbo:install:redis)
-- Windows 10 Issue, delete everything after "gem tzinfo-data" in Gemfile if tmzinfo issues occur.
-- rails active_storage:install (Needed to use the image uploading capability)
-
 # Runtomo
 Hi and welcome to Runtomo! An app for finding and meeting new buddies to run with.
 
